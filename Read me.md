@@ -1,0 +1,1 @@
+This is the assignment of Smart Contract course of Coursera.
